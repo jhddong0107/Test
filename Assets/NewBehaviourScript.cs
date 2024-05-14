@@ -6,6 +6,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
 
     public Vector3 Position;
+    public class Trasform transform;
     // Start is called before the first frame update
     void Start()
     {
